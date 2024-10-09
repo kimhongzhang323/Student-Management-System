@@ -1,3 +1,4 @@
+package src.test.java;
 class UndergraduateStudent extends Student {
     public UndergraduateStudent(String name, int matricNo) {
         super(name, matricNo);
